@@ -1,4 +1,4 @@
-echo "Building"
-
+build:
+	echo "Building"
 test:
 	echo "Testing"
